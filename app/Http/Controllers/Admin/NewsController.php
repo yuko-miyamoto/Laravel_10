@@ -10,6 +10,7 @@ use App\News;
 use App\History;
 use carbon\Carbon;
 use Storage; //Herokuカリキュラムにて追加
+
 class NewsController extends Controller
 {
     //
@@ -86,12 +87,12 @@ class NewsController extends Controller
         // 送信されてきたフォームデータを格納する
         $news_form = $request->all();
         if ($request->remove == 'true') {
-            $form['image_path'] = null;
+            $news_form['image_path'] = null;
         } elseif ($request->file('image')) {
             $path = Storage::disk('s3')->putFile('/', $form['image'],'public');
             $form->image_path = Storage::disk('s3')->url($path);
         } else {
-            $form['image_path'] = $news->image_path;
+            $news_form['image_path'] = $news->image_path;
         }
         
         unset($news_form['image']);
