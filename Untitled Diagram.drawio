@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T14:23:50.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="udzu9gjp08dSDLmoPSD5" version="15.7.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-11-15T14:25:32.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ZRP9jZFV4TgTxJB6aQhO" version="15.7.3" type="github" pages="6">
   <diagram id="UxVFxGpKfsYg7zSkrFi4" name="ログイン画面">
     <mxGraphModel dx="1564" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -192,7 +192,7 @@
           <mxGeometry x="40" y="205" width="650" height="800" as="geometry" />
         </mxCell>
         <mxCell id="3t6Vk11gN6ZwAq6YirDO-0" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=1;fontSize=18;fillColor=none;" vertex="1" parent="-rIyNbKl4Dou8ZkfTj_H-1">
-          <mxGeometry x="150" y="295" width="460" height="300" as="geometry" />
+          <mxGeometry x="135" y="290" width="460" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3t6Vk11gN6ZwAq6YirDO-8" value="タグ" style="text;html=1;points=[];align=center;verticalAlign=middle;spacingTop=-4;fontSize=14;fontFamily=Verdana;fontStyle=1" vertex="1" parent="-rIyNbKl4Dou8ZkfTj_H-1">
           <mxGeometry x="800" y="550" width="170" height="20" as="geometry" />
@@ -237,7 +237,7 @@
           <mxGeometry x="40" y="1050" width="650" height="955" as="geometry" />
         </mxCell>
         <mxCell id="-u4NiddzU06RPNRyiIuN-11" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=1;fontSize=18;fillColor=none;" vertex="1" parent="-rIyNbKl4Dou8ZkfTj_H-1">
-          <mxGeometry x="150" y="1140" width="460" height="300" as="geometry" />
+          <mxGeometry x="135" y="1140" width="460" height="300" as="geometry" />
         </mxCell>
         <mxCell id="-u4NiddzU06RPNRyiIuN-15" value="2021/10/ 8&lt;br style=&quot;font-size: 20px&quot;&gt;公演名　　　　××ツアー&lt;br style=&quot;font-size: 20px&quot;&gt;アーティスト　〇〇グループ&lt;br style=&quot;font-size: 20px&quot;&gt;会場　　　　　〇〇ホール&lt;br style=&quot;font-size: 20px&quot;&gt;チケット　　　〇〇円&lt;br&gt;セットリスト&lt;br&gt;&amp;nbsp; 1.aaa&amp;nbsp;&lt;br&gt;&amp;nbsp; 2.bbb&lt;br&gt;&amp;nbsp; 3.ccc&lt;br&gt;&amp;nbsp; 4.ddd&lt;br&gt;&amp;nbsp; 5.eee&lt;br&gt;&amp;nbsp; 6.fff&lt;br&gt;&amp;nbsp; 7.ggg&lt;br&gt;&amp;nbsp; 8.hhh&lt;br&gt;&amp;nbsp; 9.iii&lt;br&gt;10.jjj&lt;br&gt;&lt;br style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;メモ　　　　　〇〇〇〇〇〇〇〇&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#000000;" vertex="1" parent="-rIyNbKl4Dou8ZkfTj_H-1">
           <mxGeometry x="60" y="1460" width="640" height="495" as="geometry" />
